@@ -63,6 +63,6 @@ void setStudentName(String studentName) {
   打印信息
 
 ## 实验结果
-![1](https://github.com/RBMCOPY/experiment1/blob/main/4f4eabddd7e4d4ad07ed4716e1ee77f.png)
+![1](https://github.com/RBMCOPY/experiment2/blob/main/6b091a7098a4428941e2680bc210f00.png)
 ## 实验感想
   在这一次的实验中，我基本掌握了Java的编程规则、知识要点和一些小技巧，特别是对面向对象的编程思想和风格有了进一步的认识和体会。同时，因正确的编出程序而带来的成就感让我对编程更加感兴趣。我感受到一个小的细节，都能决定程序运行的成功与否，所以我应该更加细心。
